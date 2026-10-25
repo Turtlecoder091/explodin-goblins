@@ -1,2 +1,2 @@
-# Exploding Goblins
+# exploding Goblins
 
